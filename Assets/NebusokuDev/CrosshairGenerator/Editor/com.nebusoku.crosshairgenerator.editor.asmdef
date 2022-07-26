@@ -1,7 +1,9 @@
 {
     "name": "com.nebusoku.crosshairgenerator.editor",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:e09b4facfb30c93458494eb98593533b"
+    ],
     "includePlatforms": [
         "Editor"
     ],
